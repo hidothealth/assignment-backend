@@ -21,7 +21,6 @@
   "author": "hi.health",
   "license": "ISC",
   "dependencies": {
-    "@hidothealth/fastify": "^1.0.5",
     "aws-sdk": "2.804.0",
     "crypto-js": "4.0.0",
     "dd-trace": "0.33.0",
