@@ -5,8 +5,8 @@ interface Merchant {
 }
 
 const merchants = [
-  { id: '1', name: 'ACME 1', stripeAccountId: 'acct_1JxYF0PmoUt5zCi3' },
-  { id: '2', name: 'ACME 2', stripeAccountId: 'acct_1JxYF0PmoUt5zCi3' },
+  { id: '1', name: 'ACME 1', stripeAccountId: 'acct_1Ke09M4Kd1c2404n' },
+  { id: '2', name: 'ACME 2', stripeAccountId: 'acct_1Ke09M4Kd1c2404n' },
 ];
 const merchantDb = new Map<string, Merchant>();
 merchants.map((merchant) => {

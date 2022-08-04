@@ -24,7 +24,7 @@ const createPaymentIntent = async ({
     amount,
     customer,
     confirm: true,
-    payment_method: 'card_1L00EpBm9Nzb6XvVGjFqKTiH',
+    payment_method: 'card_1LQ9G8KvPYdHoBjbWQaONBGV',
     transfer_data: { destination: transferDestination },
     application_fee_amount: applicationFeeAmount,
     currency: 'EUR',

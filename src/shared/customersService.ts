@@ -4,7 +4,7 @@ interface StripeCustomer {
 }
 
 const customers: StripeCustomer[] = [
-  { customerId: 'cus_LfXHg8tXBn5FMJ', userId: '540a02e8-39c2-4278-88dc-469399cbb54e' },
+  { customerId: 'cus_M8OqWSOKNw1zJA', userId: '540a02e8-39c2-4278-88dc-469399cbb54e' },
 ];
 
 const customersDb = new Map<string, StripeCustomer>();
